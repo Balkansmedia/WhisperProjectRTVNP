@@ -1,10 +1,10 @@
-# WhisperDesktop na Bosanskom
+# WhisperDesktop na Bosanskom jeziku
 
-Ovo je modifikovana verzija projekta WhisperDesktop, prevedena i prilagođena za potrebe novinara [Radio Televizije Novi Pazar](https://rtvnp.rs). Zahvaljujemo se originalnom autoru, Const-me, na izvrsnom radu.
+Ovo je modifikovana verzija projekta WhisperDesktop, prevedena i prilagođena za potrebe novinara [Radio Televizije Novi Pazar](https://rtvnp.rs). Ova verzija je razvijena pod okriljem Media Innovation Lab aktivnosti USAID-ovog BMAP FORWARD projekta. Zahvaljujemo se originalnom autoru, Const-me, na izvrsnom radu.
 
 ## Namjena Projekta
 
-Projekat WhisperDesktop je namijenjen za prepoznavanje govora i pretvaranje istog u tekst. Ova verzija je prevedena na bosanski jezik i prilagođena za lakše korištenje od strane novinara.
+Projekat WhisperDesktop je namijenjen za prepoznavanje govora i pretvaranje istog u tekst. Ova verzija je prevedena na bosanski jezik (interfejs) i prilagođena za lakše korištenje od strane novinara. Verzija omogućuje transkripciju na bosanski, srpski, hrvatski, albanski i makedonski jezik. 
 
 ## Upustvo za kompajliranje
 
@@ -18,6 +18,8 @@ Potrebni fajlovi za rad su:
 - `WhisperDesktop.exe`
 
 Ili mozete preuzeti [zip](https://github.com/mirsadf/WhisperProj/releases/download/v1.0.0/WhisperDesktop.zip) sa kompajliranim fajlovima.
+
+Brzina same transkripcije ovisi o hardverskim mogućnostima PC uređaja na kojem pokrećete kompajliranu verziju. 
 
 ### Preuzimanje Modela
 
